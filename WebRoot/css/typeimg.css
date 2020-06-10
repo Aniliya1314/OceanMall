@@ -1,0 +1,119 @@
+@charset "UTF-8";
+.nav .nav_ol .allimg{
+	width:25px;
+	height:25px;
+	background-image: url("../img/classification/all.png");
+	background-size: 25px 25px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol .womenimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/skirt.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .womenimg{
+	background-image: url("../img/classification/skirt-after.png");
+}
+.nav .nav_ol .menimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/clothes.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .menimg{
+	background-image: url("../img/classification/clothes-after.png");
+}
+.nav .nav_ol .phoneimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/phone.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .phoneimg{
+	background-image: url("../img/classification/phone-after.png");
+}
+.nav .nav_ol .computerimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/computer.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .computerimg{
+	background-image: url("../img/classification/computer-after.png");
+}
+.nav .nav_ol .electronicsimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/camera.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .electronicsimg{
+	background-image: url("../img/classification/camera-after.png");
+}
+.nav .nav_ol .jewelryimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/jewelry.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .jewelryimg{
+	background-image: url("../img/classification/jewelry-after.png");
+}
+.nav .nav_ol .beautyimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/beautiful.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .beautyimg{
+	background-image: url("../img/classification/beautiful-after.png");
+}
+.nav .nav_ol .bagimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/bag.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .bagimg{
+	background-image: url("../img/classification/bag-after.png");
+}
+.nav .nav_ol .babyimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/baby.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .babyimg{
+	background-image: url("../img/classification/baby-after.png");
+}
+.nav .nav_ol .sportimg{
+	width:20px;
+	height:20px;
+	background-image: url("../img/classification/basketball.png");
+	background-size: 20px 20px;
+	background-repeat:no-repeat;
+	margin:auto 5px;
+}
+.nav .nav_ol li:hover .sportimg{
+	background-image: url("../img/classification/basketball-after.png");
+}

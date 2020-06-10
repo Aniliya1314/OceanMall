@@ -1,0 +1,74 @@
+{
+    "goodsinfo": [
+        {
+            "goodimg": "3.jpg",
+            "goodname": "名称1",
+            "goodprice": "$200.00",
+            "identifi":1,
+            "FBK":1
+        },
+        {
+            "goodimg": "2.png",
+            "goodname": "名称2",
+            "goodprice": "$1880.00",
+            "identifi":1,
+            "FBK":0
+        },
+        {
+            "goodimg": "2.png",
+            "goodname": "名称3",
+            "goodprice": "$1880.00",
+            "identifi":0,
+            "FBK":1
+        },
+        {
+            "goodimg": "3.jpg",
+            "goodname": "名称4",
+            "goodprice": "$180.00",
+            "identifi":0,
+            "FBK":0
+        },
+        {
+            "goodimg": "p1.jpg",
+            "goodname": "名称5",
+            "goodprice": "$180.00",
+            "identifi":1,
+            "FBK":1
+        },
+        {
+            "goodimg": "p2.jpg",
+            "goodname": "名称6",
+            "goodprice": "$180.00",
+            "identifi":0,
+            "FBK":0
+        },
+        {
+            "goodimg": "p3.jpg",
+            "goodname": "名称7",
+            "goodprice": "$180.00",
+            "identifi":0,
+            "FBK":0
+        },
+        {
+            "goodimg": "p4.jpg",
+            "goodname": "名称8",
+            "goodprice": "$180.00",
+            "identifi":0,
+            "FBK":1
+        },
+        {
+            "goodimg": "p5.jpg",
+            "goodname": "名称9",
+            "goodprice": "$180.00",
+            "identifi":1,
+            "FBK":0
+        },
+        {
+            "goodimg": "p6.jpg",
+            "goodname": "名称10",
+            "goodprice": "$180.00",
+            "identifi":1,
+            "FBK":1
+        }
+    ]
+}

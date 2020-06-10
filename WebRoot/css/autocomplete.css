@@ -1,0 +1,87 @@
+@CHARSET "UTF-8";
+
+/********************************
+A jQuery plugin for search hints
+
+Author: Lorenzo Cioni 
+https://github.com/lorecioni
+********************************/
+
+.autocomplete-container {
+
+}
+
+.autocomplete-input {
+	border:0;
+	outline:none;
+	width: 510px;
+	height: 36px;
+	border: solid #f0145a 2px;
+	margin-top: 20px;
+	margin-left: 100px;
+	text-indent: 4px;
+	font-family: '微软雅黑';
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+.autocomplete-button {
+	border:0;
+	outline:none;
+	width: 80px;
+	height: 36px;
+	background: #f0145a;
+	color: #fff;
+	border: none;
+	margin-top: 20px;
+	font-size: 18px;
+	font-family: '微软雅黑';
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-image: url("../img/find2.png");
+	background-size: 38px 38px;
+	background-repeat:no-repeat;
+	background-position-x: 16px;
+	/*margin-left: -5px;*/
+	position: absolute;
+    top: 0;
+    right: -80px;
+}
+
+.autocomplete-button:HOVER {
+	
+}
+
+.proposal-box {
+	z-index:500;
+	position: absolute;
+	height: auto;
+	border-left: 1px solid rgba(0, 0, 0, 0.11);
+	border-right: 1px solid rgba(0, 0, 0, 0.11);
+	left: 115px;
+}
+
+.proposal-list {
+	list-style: none;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.44);
+	-webkit-margin-before: 0em;
+	-webkit-margin-after: 0em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	-webkit-padding-start: 0px;
+}
+
+.proposal-list li {
+	text-align: left;
+	padding: 5px;
+	font-family: inherit;
+	/*border-bottom: 1px solid rgba(0, 0, 0, 0.16);*/
+	height: 25px;
+	line-height: 25px;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+li.proposal.selected {
+	background-color: #fff1f5;
+}

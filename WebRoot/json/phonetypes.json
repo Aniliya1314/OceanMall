@@ -1,0 +1,72 @@
+[
+	{
+        "typeid": "select1",
+        "typename": "品牌",
+        "infos": [
+            "华为",
+            "honor/荣耀",
+            "Xiaomi/小米",
+            "Apple/苹果",
+            "OPPO",
+            "三星",
+            "魅族",
+            "优米",
+            "洛基亚",
+            "OPSSON",
+            "nubia/努比亚",
+            "纽曼",
+            "天语",
+            "联想",
+            "360",
+            "OnePlus/一加"
+        ]
+    },
+    {
+        "typeid": "select2",
+        "typename": "分辨率",
+        "infos": [
+            "全高清FHD",
+            "高清HD",
+            "超清FHD以上",
+            "标清SD"
+        ]
+    },
+    {
+        "typeid": "select3",
+        "typename": "手机类型",
+        "infos": [
+            "3.0英寸及以下",
+            "4.5-3.1英寸",
+            "5.0-4.6英寸",
+            "5.5-5.1英寸",
+            "5.6英寸及以上"
+        ]
+    },
+    {
+        "typeid": "select4",
+        "typename": "机身内存",
+        "infos": [
+            "8GB以下",
+            "8GB",
+            "16GB",
+            "32GB",
+            "64GB",
+            "128GB",
+            "256GB",
+            "512GB",
+            "支持内存卡"
+        ]
+    },
+    {
+        "typeid": "select5",
+        "typename": "运行内存",
+        "infos": [
+            "2GB以下",
+            "2GB",
+            "3GB",
+            "4GB",
+            "6GB",
+            "8GB"
+        ]
+    }
+]

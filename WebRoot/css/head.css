@@ -1,0 +1,269 @@
+@charset "UTF-8";
+.PTit30 {
+	background: #f1f1f1;
+	border-bottom: solid #E5E5E5 1px;
+	color: #767676;
+	overflow: inherit;
+}
+
+.nav_bj {
+	background: #f1f1f1;
+	width: 1200px;
+}
+
+.nav_gray div {
+	padding: 0px 12px;
+	text-align: right;
+	position: relative;
+	border: solid #f1f1f1 1px;
+	border-top: none;
+	border-bottom: none;
+	background: #f1f1f1;
+}
+
+.nav_gray div .a_color {
+	color: #767676
+}
+
+.nav_gray div .a_color:hover {
+	color: #f00;
+}
+
+.nav_gray div .a_color span {
+	color: #f00;
+	font-weight: bold;
+}
+
+.nav_gray div .img_pos {
+	position: relative;
+	top: 2px;
+}
+
+.nav_gray div ul {
+	width: 100%;
+	position: absolute;
+	left: -1px;
+	top: 30px;
+	border: solid #E6E6E6 1px;
+	border-top: none;
+	background: #fff;
+	padding-top: 10px;
+	display: none;
+	z-index: 100;
+}
+
+.nav_gray div ul li {
+	text-align: center;
+}
+
+.nav_gray div ul li a {
+	color: #767676;
+}
+
+.nav_gray div ul li a:hover {
+	color: #f00;
+}
+
+.nav_gray div:hover {
+	background: #fff;
+	border: solid #E6E6E6 1px;
+	border-top: none;
+	border-bottom: none;
+}
+
+.nav_gray div:hover ul {
+	display: block;
+}
+
+.nav_gray div:nth-child(3):hover {
+	background: none;
+	border: solid #f1f1f1 1px;
+	border-top: none;
+}
+
+.nav_gray div:nth-child(4):hover {
+	background: none;
+	border: solid #f1f1f1 1px;
+	border-top: none;
+}
+
+.nav_gray div:nth-child(6) {
+	width: 70px;
+	position: relative;
+	z-index: 300;
+}
+
+.nav_gray div:nth-child(6) .wzdh_xq {
+	width: 678px;
+	position: absolute;
+	top: 30px;
+	right: -1px;
+	border: solid #e6e6e6 1px;
+	height: 135px;
+	display: none;
+	border-top: none;
+	background: #fff;
+}
+
+.nav_gray div:nth-child(6) .wzdh_xq div {
+	width: 200px;
+	display: block;
+	float: left;
+	border: none;
+	border-right: solid #E6E6E6 1px;
+	background: #fff;
+	margin-top: 5px;
+}
+
+.nav_gray div:nth-child(6) .wzdh_xq div:nth-child(3) {
+	border: none;
+}
+
+.nav_gray div:nth-child(6) .wzdh_xq div div, p {
+	text-align: left;
+	padding: 0px;
+	border: none;
+}
+
+.nav_gray div:nth-child(6) .wzdh_xq div p a {
+	padding-right: 10px;
+	display: block;
+	float: left;
+	width: 55px;
+	color: #767676;
+}
+
+.nav_gray div:nth-child(6) .wzdh_xq div p a:hover {
+	color: #f00;
+}
+
+.nav_gray div:nth-child(6):hover {
+	border-bottom: solid #fff 1px;
+	background: #fff;
+}
+
+.nav_gray div:nth-child(6):hover .wzdh_xq {
+	display: block;
+}
+
+.nav_gray div:hover .sjx {
+	transform: rotateX(180deg);
+	-webkit-transform: rotateX(120deg);
+	-moz-transform: rotateX(120deg);
+}
+
+/************************************** logo *****************************************************/
+.logo_div {
+	height: 80px;
+    padding-top: 10px;
+    background-color: #fff;
+    margin: 0 14%;
+    width: 1200px;
+}
+.logo img{
+	width: 230px;
+}
+
+.logo_div .logo p {
+	padding-top: 18px;
+	display: grid;
+}
+
+.logo_ss {
+	position: relative;
+	left:5%;
+}
+
+.logo_ss input[type=text] {
+	width: 510px;
+	height: 36px;
+	border: solid #f0145a 2px;
+	margin-top: 20px;
+	margin-left: 100px;
+	text-indent: 4px;
+	font-family: '微软雅黑';
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+.logo_ss input[type=submit] {
+	width: 80px;
+	height: 40px;
+	background: #f0145a;
+	color: #fff;
+	border: none;
+	margin-top: 20px;
+	font-size: 18px;
+	font-family: '微软雅黑';
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-image: url("../img/find2.png");
+	background-size: 38px 38px;
+	background-repeat:no-repeat;
+	background-position-x: 16px;
+	margin-left: -5px;
+}
+
+.logo_ss p {
+	margin-left: 100px;
+	margin-top: 3px;
+}
+
+.logo_ss p a {
+	color: #767676;
+	padding-right: 10px;
+}
+
+.logo_ss p a:hover {
+	color: #f00;
+}
+
+.input_cli {
+	width: 508px;
+	height: 270px;
+	background: #fff;
+	border: solid #f1f1f1 1px;
+	position: absolute;
+	top: 60px;
+	left: 100px;
+	display: none;
+	z-index: 2000;
+}
+
+.input_cli p {
+	margin-left: 10px;
+	padding: 0px;
+	color: #767676;
+	margin-top: 10px;
+}
+
+.input_cli .input_left {
+	width: 210px;
+	border-right: solid #f1f1f1 1px;
+	height: 270px;
+}
+
+.input_cli .input_right {
+	width: 280px;
+	height: 270px;
+}
+
+.input_cli .input_right p span {
+	display: block;
+	float: left;
+	height: 30px;
+	border: solid #f1f1f1 1px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0px 10px;
+	margin-right: 15px;
+	margin-top: 15px;
+}
+
+.input_cli .input_right p span a {
+	padding: 0px;
+}
+
+.input_cen {
+	text-align: center;
+}

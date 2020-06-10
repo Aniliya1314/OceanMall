@@ -1,0 +1,281 @@
+[
+	[
+		{	
+            "secondname":"Hot Categories",
+            "navinfo": ["Dresses","Jackets & Coats","Sweaters","Jeans","Suits & Sets","Blouses & Shirts"]
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Skirts","Leggings","Jeans","Pants & Capris","Wide Leg Pants","Shorts"]
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Basic Jackets","Real Fur","Down Coats","Blazers","Trench Coats","Parkas"]
+            
+        },
+        {
+        	"secondname":"Tops & Sets",
+			"navinfo": ["Tank Tops","Suits & Sets","Jumpsuits","Rompers","Intimates","Sleep & Lounge"]
+        },
+        {
+        	"secondname":"Weddings & Events",
+            "navinfo": ["Wedding Dresses","Evening Dresses","Mother of the Bride Dresses","Prom Dresses","Bridesmaid Dresses","Wedding Accessories"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Eyewear & Accessories","Hats & Caps","Belts & Cummerbunds","Scarves & Wraps","Gloves & Mittens","Prescription Glasses"]
+        }
+	],
+	[
+		{	
+            "secondname":"Hot Sale",
+            "navinfo": ["Hoodies & Sweatshirts","Jackets","T-Shirts","Shirts","Sweaters","Socks"]
+            
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Casual Pants","Cargo Pants","Jeans","Sweatpants","Harem Pants","Shorts"]
+
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Trench","Genuine Leather","Parkas","Down Jackets","Wool & Blends","Suits & Blazer"]
+        },
+        {
+        	"secondname":"Underwear & Loungewear",
+            "navinfo": ["Boxers","Briefs","Long Johns","Men's Sleep & Lounge","Pajama Sets","Robes"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Scarves","Skullies & Beanies","Prescription Glasses","Gloves & Mittens","Belts","Bomber Hats","Fedoras","Berets","Baseball Caps"]
+       	},
+       	{	
+            "secondname":"Novelty & Special Use",
+            "navinfo": ["Cosplay Costumes","Stage & Dance Wear","Exotic Apparel"]
+
+        }
+    ],
+	[
+		{	
+            "secondname":"Hot Categories",
+            "navinfo": ["Dresses","Jackets & Coats","Sweaters","Jeans","Suits & Sets","Blouses & Shirts"]
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Skirts","Leggings","Jeans","Pants & Capris","Wide Leg Pants","Shorts"]
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Basic Jackets","Real Fur","Down Coats","Blazers","Trench Coats","Parkas"]
+            
+        },
+        {
+        	"secondname":"Tops & Sets",
+			"navinfo": ["Tank Tops","Suits & Sets","Jumpsuits","Rompers","Intimates","Sleep & Lounge"]
+        },
+        {
+        	"secondname":"Weddings & Events",
+            "navinfo": ["Wedding Dresses","Evening Dresses","Mother of the Bride Dresses","Prom Dresses","Bridesmaid Dresses","Wedding Accessories"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Eyewear & Accessories","Hats & Caps","Belts & Cummerbunds","Scarves & Wraps","Gloves & Mittens","Prescription Glasses"]
+        }
+	],
+	[
+		{	
+            "secondname":"Hot Sale",
+            "navinfo": ["Hoodies & Sweatshirts","Jackets","T-Shirts","Shirts","Sweaters","Socks"]
+            
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Casual Pants","Cargo Pants","Jeans","Sweatpants","Harem Pants","Shorts"]
+
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Trench","Genuine Leather","Parkas","Down Jackets","Wool & Blends","Suits & Blazer"]
+        },
+        {
+        	"secondname":"Underwear & Loungewear",
+            "navinfo": ["Boxers","Briefs","Long Johns","Men's Sleep & Lounge","Pajama Sets","Robes"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Scarves","Skullies & Beanies","Prescription Glasses","Gloves & Mittens","Belts","Bomber Hats","Fedoras","Berets","Baseball Caps"]
+       	},
+       	{	
+            "secondname":"Novelty & Special Use",
+            "navinfo": ["Cosplay Costumes","Stage & Dance Wear","Exotic Apparel"]
+
+        }
+    ],
+    [
+		{	
+            "secondname":"Hot Categories",
+            "navinfo": ["Dresses","Jackets & Coats","Sweaters","Jeans","Suits & Sets","Blouses & Shirts"]
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Skirts","Leggings","Jeans","Pants & Capris","Wide Leg Pants","Shorts"]
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Basic Jackets","Real Fur","Down Coats","Blazers","Trench Coats","Parkas"]
+            
+        },
+        {
+        	"secondname":"Tops & Sets",
+			"navinfo": ["Tank Tops","Suits & Sets","Jumpsuits","Rompers","Intimates","Sleep & Lounge"]
+        },
+        {
+        	"secondname":"Weddings & Events",
+            "navinfo": ["Wedding Dresses","Evening Dresses","Mother of the Bride Dresses","Prom Dresses","Bridesmaid Dresses","Wedding Accessories"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Eyewear & Accessories","Hats & Caps","Belts & Cummerbunds","Scarves & Wraps","Gloves & Mittens","Prescription Glasses"]
+        }
+	],
+	[
+		{	
+            "secondname":"Hot Sale",
+            "navinfo": ["Hoodies & Sweatshirts","Jackets","T-Shirts","Shirts","Sweaters","Socks"]
+            
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Casual Pants","Cargo Pants","Jeans","Sweatpants","Harem Pants","Shorts"]
+
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Trench","Genuine Leather","Parkas","Down Jackets","Wool & Blends","Suits & Blazer"]
+        },
+        {
+        	"secondname":"Underwear & Loungewear",
+            "navinfo": ["Boxers","Briefs","Long Johns","Men's Sleep & Lounge","Pajama Sets","Robes"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Scarves","Skullies & Beanies","Prescription Glasses","Gloves & Mittens","Belts","Bomber Hats","Fedoras","Berets","Baseball Caps"]
+       	},
+       	{	
+            "secondname":"Novelty & Special Use",
+            "navinfo": ["Cosplay Costumes","Stage & Dance Wear","Exotic Apparel"]
+
+        }
+    ],[
+		{	
+            "secondname":"Hot Categories",
+            "navinfo": ["Dresses","Jackets & Coats","Sweaters","Jeans","Suits & Sets","Blouses & Shirts"]
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Skirts","Leggings","Jeans","Pants & Capris","Wide Leg Pants","Shorts"]
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Basic Jackets","Real Fur","Down Coats","Blazers","Trench Coats","Parkas"]
+            
+        },
+        {
+        	"secondname":"Tops & Sets",
+			"navinfo": ["Tank Tops","Suits & Sets","Jumpsuits","Rompers","Intimates","Sleep & Lounge"]
+        },
+        {
+        	"secondname":"Weddings & Events",
+            "navinfo": ["Wedding Dresses","Evening Dresses","Mother of the Bride Dresses","Prom Dresses","Bridesmaid Dresses","Wedding Accessories"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Eyewear & Accessories","Hats & Caps","Belts & Cummerbunds","Scarves & Wraps","Gloves & Mittens","Prescription Glasses"]
+        }
+	],
+	[
+		{	
+            "secondname":"Hot Sale",
+            "navinfo": ["Hoodies & Sweatshirts","Jackets","T-Shirts","Shirts","Sweaters","Socks"]
+            
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Casual Pants","Cargo Pants","Jeans","Sweatpants","Harem Pants","Shorts"]
+
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Trench","Genuine Leather","Parkas","Down Jackets","Wool & Blends","Suits & Blazer"]
+        },
+        {
+        	"secondname":"Underwear & Loungewear",
+            "navinfo": ["Boxers","Briefs","Long Johns","Men's Sleep & Lounge","Pajama Sets","Robes"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Scarves","Skullies & Beanies","Prescription Glasses","Gloves & Mittens","Belts","Bomber Hats","Fedoras","Berets","Baseball Caps"]
+       	},
+       	{	
+            "secondname":"Novelty & Special Use",
+            "navinfo": ["Cosplay Costumes","Stage & Dance Wear","Exotic Apparel"]
+
+        }
+    ],
+    [
+		{	
+            "secondname":"Hot Categories",
+            "navinfo": ["Dresses","Jackets & Coats","Sweaters","Jeans","Suits & Sets","Blouses & Shirts"]
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Skirts","Leggings","Jeans","Pants & Capris","Wide Leg Pants","Shorts"]
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Basic Jackets","Real Fur","Down Coats","Blazers","Trench Coats","Parkas"]
+            
+        },
+        {
+        	"secondname":"Tops & Sets",
+			"navinfo": ["Tank Tops","Suits & Sets","Jumpsuits","Rompers","Intimates","Sleep & Lounge"]
+        },
+        {
+        	"secondname":"Weddings & Events",
+            "navinfo": ["Wedding Dresses","Evening Dresses","Mother of the Bride Dresses","Prom Dresses","Bridesmaid Dresses","Wedding Accessories"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Eyewear & Accessories","Hats & Caps","Belts & Cummerbunds","Scarves & Wraps","Gloves & Mittens","Prescription Glasses"]
+        }
+	],
+	[
+		{	
+            "secondname":"Hot Sale",
+            "navinfo": ["Hoodies & Sweatshirts","Jackets","T-Shirts","Shirts","Sweaters","Socks"]
+            
+        },
+        {
+        	"secondname":"Bottoms",
+            "navinfo": ["Casual Pants","Cargo Pants","Jeans","Sweatpants","Harem Pants","Shorts"]
+
+        },
+        {
+        	"secondname":"Outerwear & Jackets",
+            "navinfo": ["Trench","Genuine Leather","Parkas","Down Jackets","Wool & Blends","Suits & Blazer"]
+        },
+        {
+        	"secondname":"Underwear & Loungewear",
+            "navinfo": ["Boxers","Briefs","Long Johns","Men's Sleep & Lounge","Pajama Sets","Robes"]
+        },
+        {
+        	"secondname":"Accessories",
+            "navinfo": ["Scarves","Skullies & Beanies","Prescription Glasses","Gloves & Mittens","Belts","Bomber Hats","Fedoras","Berets","Baseball Caps"]
+       	},
+       	{	
+            "secondname":"Novelty & Special Use",
+            "navinfo": ["Cosplay Costumes","Stage & Dance Wear","Exotic Apparel"]
+
+        }
+    ]
+]

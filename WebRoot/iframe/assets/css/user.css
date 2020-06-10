@@ -1,0 +1,132 @@
+ul li {
+	width: 150px;
+	border: 1px solid #f2f2f3;
+}
+
+.box {
+	width: 550px;
+	height: 290px;
+	margin-top: 10px;
+	margin-right: 10px;
+	border: 1px solid #eff0f0;
+	padding: 0px;
+}
+
+.box1 {
+	width: 375px;
+	height: 290px;
+	margin-top: 10px;
+	border: 1px solid #eff0f0;
+	padding: 0px;
+}
+
+.box2 {
+	width: 946px;
+	margin-top: 10px;
+	border: 2px solid #eff0f0;
+	padding: 0px;
+}
+
+.box2:hover {
+	border-color: #fff1f5;
+}
+
+.box:hover, .box1:hover {
+	border-color: #fe4d53;
+}
+
+.backimage {
+	width: 935px;
+	height: 150px;
+	background: -webkit-linear-gradient(left top, #fff1f5, #d2364c, #d2364c);
+	/* Safari 5.1 - 6.0 */
+	background: -o-linear-gradient(bottom right, #fff1f5, #d2364c, #d2364c);
+	/* Opera 11.1 - 12.0 */
+	background: -moz-linear-gradient(bottom right, #fff1f5, #d2364c, #d2364c);
+	/* Firefox 3.6 - 15 */
+	background: -webkit-linear-gradient(top, #bccfe3 0%, #d2dded 100%);
+	background: linear-gradient(to bottom right, #FEB692, #EA5455);
+	margin: auto;
+}
+
+.headimage {
+	border: 1px solid #eff0f0;
+	margin-top: 30px;
+	padding: 0px;
+	width: 70px;
+	height: 70px;
+	border-radius: 45px;
+}
+
+.opacitybox {
+	margin-top: 60px;
+	padding: 3px;
+	height: 45px;
+	background-color: rgba(0, 0, 0, 0.2);
+	color: white;
+}
+
+a {
+	color: #5c5c5c;
+}
+
+.list3 small {
+	color: white;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.opacitybox a:visited {
+	color: white; /*����Ĭ�ϵ���ɫ�仯*/
+	text-decoration: none;
+}
+
+li>a:hover {
+	color: #d2364c;
+	background-color: #fff1f5;
+	text-decoration: none;
+}
+
+.notice {
+	width: 22px;
+	height: 22px;
+	line-height: 22px;
+	font-size: 10px;
+	color: #fff;
+	text-align: center;
+	background-color: #dd514c;
+	border-radius: 50%;
+	position: absolute;
+	left: 141px;
+	top: -8px;
+}
+
+.font {
+	font-size: 14px;
+	color: #5c5c5c;
+	font-family: arial;
+}
+
+.redline {
+	width: 100%;
+	height: 12px;
+	/*border-top:solid #F0145A 2px;*/
+}
+
+.alwayslight {
+	color: #d2364c;
+	background-color: #fff1f5;
+}
+
+.pinkcolor {
+	color: #fe4d53;
+}
+.footer_cen {
+	color: #767676;
+	position: absolute;
+    bottom: 0px;
+    width: 100%;
+    left: 45%;
+}
